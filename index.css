@@ -10,12 +10,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .container{
     max-width: 375px;
     width: 95%;
-    margin: 5% auto 2% auto;
+    /* margin: 5% auto 2% auto; */
     display: flex;
     flex-direction: column;
     align-items: center;
